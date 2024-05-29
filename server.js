@@ -70,5 +70,5 @@ app.delete('/:id', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Server running at http://44.204.245.183:3000/`);
+    console.log(`Server running at http://3.95.232.244:3000/`);
 });
